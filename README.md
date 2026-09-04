@@ -104,11 +104,11 @@ Each page was designed to answer a different business question and provide a cle
 
 A PDF export of the dashboard is available in this repository:
 
-[View Dashboard PDF](reports/Olist_Ecommerce_Dashboard.pdf)
+[View Dashboard PDF](reports/04_powerbi_dash.pdf)
 
 The interactive `.pbix` file is hosted externally due to GitHub file size limitations:
 
-[Download Power BI PBIX file](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)
+[Download Power BI PBIX file](https://drive.google.com/file/d/1JXLsQhdQjtGTA9yuv85SEtbngYqS2sQD/view?usp=drive_link)
 
 ---
 
