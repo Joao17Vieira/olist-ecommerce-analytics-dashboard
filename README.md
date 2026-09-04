@@ -84,10 +84,9 @@ SQL scripts are available in the `sql/` folder:
 
 ```text
 sql/
-├── 01_create_and_import_tables.sql
-├── 02_data_cleaning.sql
-├── 03_eda_analysis.sql
-└── 04_views_for_powerbi.sql
+├── 01_data_cleaning.sql
+├── 02_eda_analysis.sql
+└── 03_views_for_powerbi.sql
 ```
 ---
 ## Power BI Dashboard
@@ -142,11 +141,12 @@ The Sales & Products page focuses on revenue, products and category performance.
 Main metrics and visuals include:
 
 - Total revenue
-- Total orders
+- Amount of products sold
 - Average ticket
 - Average item price
 - Unique products
 - Top categories by revenue
+- Top categories by items sold
 - Top products by revenue
 - Average price by category
 - Revenue vs items sold
@@ -341,7 +341,6 @@ Through this project, I practiced:
 - Building a multi-page dashboard in Power BI.
 - Handling filtering and relationship issues between tables.
 - Designing dashboards with a consistent layout and visual style.
-- Communicating insights in a business-oriented way.
 
 ---
 
@@ -354,7 +353,6 @@ Possible future improvements include:
 - Add customer segmentation analysis.
 - Analyze seller performance in more detail.
 - Add more advanced delivery delay analysis.
-- Publish the report through Power BI Service.
 - Build an AI assistant capable of answering business questions about the dataset using natural language.
 - Add automated insight generation using LLMs.
 
@@ -373,14 +371,14 @@ olist-ecommerce-analytics-dashboard/
 │   └── 03_views_for_powerbi.sql
 │
 ├── reports/
-│   └── Olist_Ecommerce_Dashboard.pdf
+│   └── 04_powerbi_dash.pdf
 │
 ├── images/
-│   ├── 01_executive_overview.png
-│   ├── 02_sales_products.png
-│   ├── 03_customers_geography.png
-│   ├── 04_delivery_reviews.png
-│   └── 05_payments.png
+│   ├── exec_overview.png
+│   ├── sales_prod.png
+│   ├── cust_geo.png
+│   ├── deliv_review.png
+│   └── payments.png
 │
 └── data/
     └── README.md
