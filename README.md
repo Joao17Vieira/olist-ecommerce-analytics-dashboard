@@ -225,23 +225,23 @@ This page provides insights into how customers pay and how payment behavior vari
 
 ### Executive Overview
 
-![Executive Overview](images/01_executive_overview.png)
+![Executive Overview](images/exec_overview)
 
 ### Sales & Products
 
-![Sales & Products](images/02_sales_products.png)
+![Sales & Products](images/sales_prod)
 
 ### Customers & Geography
 
-![Customers & Geography](images/03_customers_geography.png)
+![Customers & Geography](images/cust_geo)
 
 ### Delivery & Reviews
 
-![Delivery & Reviews](images/04_delivery_reviews.png)
+![Delivery & Reviews](images/deliv_review)
 
 ### Payments
 
-![Payments](images/05_payments.png)
+![Payments](images/payments)
 
 ---
 
